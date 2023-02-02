@@ -7,8 +7,8 @@
 
   ---
 
-* 🔭 I's a **Software Engineering Manager (Robotics Software Engineer)**
-  at [Macroact Inc.](https://www.macroact.com/)
+* 🔭 Ronald's a **Field Application Engineer (Software-in-Loop Team)**
+  at [dSPACE Korea](https://www.dspace.com/)
 
 - 🌱 I’m currently Learning Machine Learning Operations (MLOps)😎 and Fullstack Software Engineering.
 
